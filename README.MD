@@ -1,3 +1,16 @@
+
+# Upcoming Features 
+
+1.Final Stable Version
+
+2.Multi Login
+
+3.Session Login
+
+4.Bug Fixed
+
+5.More Features
+
 # TG-SCRAPPER is a python based powerful script for scrapping members from a telegram group & adding to a group . 
  
 # Still This is a beta Version . Still In Development . Expect Full Version Soon ...
@@ -40,10 +53,3 @@
   
 ```
   
-
-
-# SCREENSHOTS : 
- 
-![Screenshot_20210621-231255_Termux](https://user-images.githubusercontent.com/72663288/122806440-eff4ac80-d2e7-11eb-9886-c01928019e91.jpg)
-
-![Screenshot_20210621-231318_Termux](https://user-images.githubusercontent.com/72663288/122806458-f71bba80-d2e7-11eb-8540-ce1079304091.jpg)
