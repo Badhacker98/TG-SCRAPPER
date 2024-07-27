@@ -36,9 +36,8 @@
   
 * `apt-get update -y`
 * `apt-get upgrade -y`
-* `apt install python -y`
-* `git clone https://github.com/isuruwa/TG-SCRAPPER`
-* `cd TG-SCRAPPER`
+* `apt install python-is-python3`
+* `git clone https://github.com/badmunda98/TG_MEMBER && cd TG_MEMBER`
 * `pip install -r requirements.txt`
 * `chmod +x *`
 * `python main.py`
