@@ -1,3 +1,6 @@
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-TGSCRAPPER-brightgreen?style=for-the-badge&logo=appveyor"></a>
+<br>
+<p align="center">
 
 # Upcoming Features 
 
